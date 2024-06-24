@@ -10,7 +10,7 @@
 - 👩‍🎓 Hey! I'm Dheeraj, pursuing my major in Computer Science and Engineering.
 - :octocat: I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript. Along with this I'm also highly interested in machine learning.
 - 👩‍💻 I love Competitive Programming.
-- ⚡ Reach out to me at **dj13042002@gmail.com**
+- ⚡ Reach out to me at **dheeraj.gupta.codes@gmail.com**
 
 <br/> 
 
